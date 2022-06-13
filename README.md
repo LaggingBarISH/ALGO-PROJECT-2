@@ -14,8 +14,8 @@ Input format:
 	No other input format will be accepted!
 
 Output format:  
-  The output should be a text file that consists of two lines:
-	- The first line should include a single integer value, the number of colors used (k).
+  The output should be a text file that consists of two lines:  
+	- The first line should include a single integer value, the number of colors used (k).  
 	- The second line should include the labels of the colors used for all vertices, from vertex 1 to vertex n. Label values are integers between zero and k-1 and they are separated by a space character.
 	No other output format will be accepted!    
 <br />
