@@ -42,3 +42,15 @@ GNU Time was used to measure Maximum ram usage.
 > /usr/bin/time -v python ./ALGO\ PROJECT-2.py  
 	Maximum resident set size (kbytes): 51176
 </pre>
+
+	
+System Info:  
+<pre>
+OS: Debian GNU/Linux 10 (buster) x86_64 
+Kernel: 4.19.0-18-amd64 
+Uptime: 2 days, 8 hours, 26 mins
+Shell: bash 5.0.3 
+CPU: Intel i5-6500 (4) @ 3.600GHz 
+GPU: NVIDIA GeForce GTX 980 Ti 
+Memory: 5463MiB / 15993MiB 
+</pre>
