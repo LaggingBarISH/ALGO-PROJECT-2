@@ -21,7 +21,7 @@ Output format:
 
 	
 
-test4.txt was used as the input file for the tests.
+test4.txt was used as the input file for the tests.  
 GNU Time was used to measure Maximum ram usage.
 <pre>
 > gcc -O3 ./ALGO\ PROJECT-2.c -o ALGO\ PROJECT-2.out  
