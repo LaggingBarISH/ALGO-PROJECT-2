@@ -18,3 +18,25 @@ Output format:
 	- The first line should include a single integer value, the number of colors used (k).
 	- The second line should include the labels of the colors used for all vertices, from vertex 1 to vertex n. Label values are integers between zero and k-1 and they are separated by a space character.
 	No other output format will be accepted!
+
+	
+
+test4.txt was used as the input file for the tests.
+
+> gcc -O3 ./ALGO\ PROJECT-2.c -o ALGO\ PROJECT-2.out
+> time ./ALGO\ PROJECT-2.out
+	real	0m0.091s
+	user	0m0.077s
+	sys	0m0.012s
+
+> /usr/bin/time -v ./ALGO\ PROJECT-2.out
+	Maximum resident set size (kbytes): 26384
+
+
+> time python ./ALGO\ PROJECT-2.py
+	real	0m1.593s
+	user	0m1.559s
+	sys	0m0.032s
+
+> /usr/bin/time -v python ./ALGO\ PROJECT-2.py
+	Maximum resident set size (kbytes): 51176
